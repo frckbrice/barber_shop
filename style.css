@@ -100,7 +100,7 @@ body {
     position: fixed;
     right: -250px;
     top: 0;
-    background: rgba(0,96,88,0.3);/*--nous préférons  un side bar transparent--*/
+    background: rgba(0,96,88,0.4);/*--nous préférons  un side bar transparent--*/
     z-index: 2;
     transition: 0.5s;
 }
@@ -115,7 +115,7 @@ nav ul li a{
 #menubtn{
     width: 45px;
     height: 45px;
-   background: #009688;
+   background: rgba(0,96,88,0.3);
     text-align: center;
     position: fixed;
     right: 50px;
