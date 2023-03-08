@@ -26,7 +26,7 @@ body {
 
 /*--la bannière--*/
 #banner{
-    background:linear-gradient(rgba(0,0,0,0.2),#009688),  url(images/backg3.webp);
+    background:linear-gradient(rgba(0,0,0,0.2),#660096),  url(images/backg3.webp);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -155,8 +155,10 @@ nav ul li a{
 /*particularité*/
 #features{
     width: 100%;
-    padding: 70px 0;
-
+    padding: 70px 0 70px;
+    background:linear-gradient(rgba(0,0,0,0.2),#c6a0db), url(./images/logo1.png);
+    background-size: cover;
+    
 }
 .title-texte{
     text-align: center;
@@ -264,7 +266,8 @@ nav ul li a{
 #service{
     width: 100%;
     padding: 70px 0;
-    background: #efefef;
+    background:linear-gradient(rgba(0,0,0,0.2),#d6c0e2), url(./images/logo1.png);
+    background-size: cover;
 }
 .service-box{
     width: 80%;
