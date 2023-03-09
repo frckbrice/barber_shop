@@ -204,10 +204,11 @@ nav ul li a{
 .features-img{
     flex-basis: 50%;
     margin: auto;
+    
 }
 .features-img img{
     width: 70%;
-    height: 300px;
+    height: 500px;
     border-radius: 10px;
 }
 .features h1{
@@ -239,7 +240,7 @@ nav ul li a{
 @media screen and (max-width: 770px) {
     .features-img{
         flex-basis: 100%;
-
+        
     }
     .features-img img{
         width: 100%;
