@@ -5,58 +5,52 @@
 	src: url(‘/fonts/KaushanScript-Regular.woff2’) format(‘woff2’),
 	url(‘/fonts/KaushanScript-Regular.ttf’) format(‘truetype’)
 }
-@font-face { 
+@font-face {
   font-family: 'Poppins-ExtraLight';
   font-style: italic;
   src: url(‘/fonts/Poppins-ExtraLight.woff2’) format(‘woff2’),
   url(‘/fonts/Poppins-ExtraLight.ttf’) format(‘truetype’)
 }
-body { 
+body {
   font-family: 'KaushanScript-Regular', sans-serif;
 }
-  cette introduction manuelle de police 
+  cette introduction manuelle de police
   ne fonctionne pas. faut revoir ça plus tard */
 * {
   margin: 0;
   padding: 0;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
-
 /* la bannière */
-#banner { 
-  background: linear-gradient(rgba(0, 0, 0, 0.2), #660096),
-  url(images/backg3.webp);
+#banner {
+  background: linear-gradient(rgba(0 0 0 / 20%), #660096),url(images/backg3.webp);
   background-size: cover;
   background-position: center;
   height: 100vh;
 }
 
-.banner-text { 
+.banner-text {
   text-align: center;
   color: #fff;
   padding-top: 180px;
 }
 
-
-.banner-text h1 { 
+.banner-text h1 {
   font-size: 95px;
   font-family: "Kaushan Script", cursive;
 }
 
-
-.banner-text p { 
+.banner-text p {
   font-size: 20px;
   font-style: italic;
 }
 
-
-.banner-btn { 
+.banner-btn {
   margin: 70px auto 0;
 }
 
-
-.banner-logo { 
+.banner-logo {
   margin: 70px auto 0;
   width: 100%;
 }
@@ -73,7 +67,7 @@ body {
 } */
 
 
-.banner-btn a { 
+.banner-btn a {
   width: 150px;
   text-decoration: none;
   display: inline-block;
@@ -604,7 +598,7 @@ hr {
     font-size: 14px;
   }
 
-  
+
   .footer-img {
     top: 25%;
   }
