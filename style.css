@@ -24,7 +24,7 @@ body {
 
 /* la bannière */
 #banner {
-  background: linear-gradient(rgba(0 0 0 / 20%), #660096),url(images/backg3.webp);
+  background: linear-gradient(rgba(0 0 0 / 20%), #660096), url("images/backg3.webp");
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -101,7 +101,6 @@ body {
 .banner-btn a:hover { 
   color: black;
 }
-
 
 #side-nav { 
   width: 250px;
