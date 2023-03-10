@@ -400,7 +400,7 @@ hr{
 
 /*--footer--*/
 #footer{
-    padding: 101px 0 20px;
+    padding: 100px 0 20px;
     background:linear-gradient(rgba(0,0,0,0.2),#d6c0e2), url(./images/logo1.png);
     position: relative;
 }
