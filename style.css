@@ -156,7 +156,7 @@ nav ul li a{
 #features{
     width: 100%;
     padding: 70px 0 70px;
-    background:linear-gradient(rgba(0,0,0,0.2),#c6a0db), url(./images/logo1.png);
+    background:linear-gradient(rgba(0,0,0,0.2),#d6c0e2), url(./images/logo1.png);
     background-size: cover;
     
 }
@@ -401,7 +401,7 @@ hr{
 /*--footer--*/
 #footer{
     padding: 100px 0 20px;
-    background: #efefef;
+    background:linear-gradient(rgba(0,0,0,0.2),#d6c0e2), url(./images/logo1.png);
     position: relative;
 }
 .footer-row{
