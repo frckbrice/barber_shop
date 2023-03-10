@@ -288,6 +288,7 @@ nav ul li a{
 .single-service img{
     width: 100%;
     height: 100%;
+    object-fit: cover;
     border-radius: 7px;
 }
 .overlay{
