@@ -115,7 +115,7 @@ nav ul li a{
 #menubtn{
     width: 45px;
     height: 45px;
-   background: #660096;
+   background: rgba(0,96,88,0.2);  
     text-align: center;
     position: fixed;
     right: 50px;
